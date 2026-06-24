@@ -1,0 +1,52 @@
+name: Fetch Nifty Defence
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: pip install requests
+
+      - name: Fetch data
+        run: |
+          python <<'EOF'
+          import requests, json
+
+          session = requests.Session()
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+              "Accept": "*/*",
+              "Accept-Language": "en-US,en;q=0.9",
+          }
+          session.get("https://www.nseindia.com", headers=headers, timeout=10)
+          resp = session.get(
+              "https://www.nseindia.com/api/allIndices",
+              headers={**headers, "Referer": "https://www.nseindia.com/market-data/live-equity-market"},
+              timeout=10,
+          )
+          data = resp.json()
+          idx = next(i for i in data["data"] if "DEFENCE" in i["index"].upper())
+          result = {
+              "price": idx["last"],
+              "change_pct": idx["percentChange"],
+              "timestamp": idx.get("timeVal", "")
+          }
+          with open("nifty_defence.json", "w") as f:
+              json.dump(result, f)
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add nifty_defence.json
+          git commit -m "Update Nifty Defence data" || echo "No changes"
+          git push
