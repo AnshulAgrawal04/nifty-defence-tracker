@@ -1,4 +1,21 @@
-- name: Fetch data
+name: Fetch Nifty Defence
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: pip install requests
+
+      - name: Fetch data
         run: |
           python <<'EOF'
           import requests, json, csv
@@ -18,11 +35,9 @@
           payload = resp.json()
           data = payload["data"]
 
-          # Save full raw JSON
           with open("all_indices.json", "w") as f:
               json.dump(payload, f, indent=2)
 
-          # Save as CSV too
           fieldnames = sorted({key for row in data for key in row.keys()})
           with open("all_indices.csv", "w", newline="") as f:
               writer = csv.DictWriter(f, fieldnames=fieldnames)
