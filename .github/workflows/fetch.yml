@@ -1,24 +1,7 @@
-name: Fetch Nifty Defence
-
-on:
-  schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch:
-
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
-      - run: pip install requests
-
-      - name: Fetch data
+- name: Fetch data
         run: |
           python <<'EOF'
-          import requests, json
+          import requests, json, csv
 
           session = requests.Session()
           headers = {
@@ -32,21 +15,25 @@ jobs:
               headers={**headers, "Referer": "https://www.nseindia.com/market-data/live-equity-market"},
               timeout=10,
           )
-          data = resp.json()
-          idx = next(i for i in data["data"] if "DEFENCE" in i["index"].upper())
-          result = {
-              "price": idx["last"],
-              "change_pct": idx["percentChange"],
-              "timestamp": idx.get("timeVal", "")
-          }
-          with open("nifty_defence.json", "w") as f:
-              json.dump(result, f)
+          payload = resp.json()
+          data = payload["data"]
+
+          # Save full raw JSON
+          with open("all_indices.json", "w") as f:
+              json.dump(payload, f, indent=2)
+
+          # Save as CSV too
+          fieldnames = sorted({key for row in data for key in row.keys()})
+          with open("all_indices.csv", "w", newline="") as f:
+              writer = csv.DictWriter(f, fieldnames=fieldnames)
+              writer.writeheader()
+              writer.writerows(data)
           EOF
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add nifty_defence.json
-          git commit -m "Update Nifty Defence data" || echo "No changes"
+          git add all_indices.json all_indices.csv
+          git commit -m "Update all indices data" || echo "No changes"
           git push
