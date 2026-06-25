@@ -18,22 +18,38 @@ jobs:
       - name: Fetch data
         run: |
           python <<'EOF'
-          import requests, json, csv
+          import requests, json, csv, sys
+          from datetime import datetime, timedelta, timezone
 
-          session = requests.Session()
-          headers = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-              "Accept": "*/*",
-              "Accept-Language": "en-US,en;q=0.9",
-          }
-          session.get("https://www.nseindia.com", headers=headers, timeout=10)
-          resp = session.get(
-              "https://www.nseindia.com/api/allIndices",
-              headers={**headers, "Referer": "https://www.nseindia.com/market-data/live-equity-market"},
-              timeout=10,
-          )
-          payload = resp.json()
-          data = payload["data"]
+          IST = timezone(timedelta(hours=5, minutes=30))
+          captured_at = datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S")
+
+          try:
+              session = requests.Session()
+              headers = {
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+                  "Accept": "*/*",
+                  "Accept-Language": "en-US,en;q=0.9",
+              }
+              session.get("https://www.nseindia.com", headers=headers, timeout=10)
+              resp = session.get(
+                  "https://www.nseindia.com/api/allIndices",
+                  headers={**headers, "Referer": "https://www.nseindia.com/market-data/live-equity-market"},
+                  timeout=10,
+              )
+              resp.raise_for_status()
+              payload = resp.json()
+              data = payload["data"]
+
+              if not data:
+                  raise ValueError("Empty data returned from NSE")
+
+              for row in data:
+                  row["captured_at"] = captured_at
+
+          except Exception as e:
+              print(f"Fetch failed: {e}")
+              sys.exit(1)
 
           with open("all_indices.json", "w") as f:
               json.dump(payload, f, indent=2)
@@ -43,9 +59,12 @@ jobs:
               writer = csv.DictWriter(f, fieldnames=fieldnames)
               writer.writeheader()
               writer.writerows(data)
+
+          print("Success — files updated.")
           EOF
 
       - name: Commit and push
+        if: success()
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
