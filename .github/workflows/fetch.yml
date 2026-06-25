@@ -16,13 +16,19 @@ jobs:
       - run: pip install requests
 
       - name: Fetch data
+        id: fetch
+        continue-on-error: true
         run: |
           python <<'EOF'
-          import requests, json, csv, sys
+          import requests, json, csv, sys, time
           from datetime import datetime, timedelta, timezone
 
           IST = timezone(timedelta(hours=5, minutes=30))
-          captured_at = datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S")
+          start_time = time.time()
+          triggered_at = datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S")
+
+          status = "Success"
+          message = ""
 
           try:
               session = requests.Session()
@@ -44,30 +50,50 @@ jobs:
               if not data:
                   raise ValueError("Empty data returned from NSE")
 
+              captured_at = datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S")
               for row in data:
                   row["captured_at"] = captured_at
 
+              with open("all_indices.json", "w") as f:
+                  json.dump(payload, f, indent=2)
+
+              fieldnames = sorted({key for row in data for key in row.keys()})
+              with open("all_indices.csv", "w", newline="") as f:
+                  writer = csv.DictWriter(f, fieldnames=fieldnames)
+                  writer.writeheader()
+                  writer.writerows(data)
+
           except Exception as e:
+              status = "Failed"
+              message = str(e)
               print(f"Fetch failed: {e}")
+
+          duration = round(time.time() - start_time, 2)
+
+          log_file = "run_log.csv"
+          try:
+              with open(log_file, "r"):
+                  file_exists = True
+          except FileNotFoundError:
+              file_exists = False
+
+          with open(log_file, "a", newline="") as f:
+              writer = csv.writer(f)
+              if not file_exists:
+                  writer.writerow(["triggered_at", "status", "duration_seconds", "message"])
+              writer.writerow([triggered_at, status, duration, message])
+
+          print(f"Status: {status}, Duration: {duration}s")
+
+          if status == "Failed":
               sys.exit(1)
-
-          with open("all_indices.json", "w") as f:
-              json.dump(payload, f, indent=2)
-
-          fieldnames = sorted({key for row in data for key in row.keys()})
-          with open("all_indices.csv", "w", newline="") as f:
-              writer = csv.DictWriter(f, fieldnames=fieldnames)
-              writer.writeheader()
-              writer.writerows(data)
-
-          print("Success — files updated.")
           EOF
 
       - name: Commit and push
-        if: success()
+        if: always()
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add all_indices.json all_indices.csv
-          git commit -m "Update all indices data" || echo "No changes"
+          git add all_indices.json all_indices.csv run_log.csv
+          git commit -m "Update data and run log" || echo "No changes"
           git push
