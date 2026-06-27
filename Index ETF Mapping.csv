@@ -1,0 +1,31 @@
+﻿Instrument,Underlying Asset,Type,Symbol
+ABSLPSE,Aditya Birla Sun Life Nifty PSE ETF,Index,NIFTY PSE
+AUTOBEES,Nifty Auto TRI,Index,NIFTY AUTO
+BFSI,Nifty Financial Services Index,Index,NIFTY FIN SERVICE
+CHEMICAL,Nifty Chemicals Index (TRI),Index,NIFTY CHEMICALS
+CONSUMBEES,Nifty India Consumption TRI,Index,NIFTY CONSUMPTION
+CPSEETF,CPSE ETF,Index,NIFTY CPSE
+EVINDIA,Nifty EV and New Age Automotive Total Return Index,Index,NIFTY EV
+FMCGIETF,Nifty FMCG Index,Index,NIFTY FMCG
+GOLDBEES,Gold,Stocks,GOLDBEES
+GROWWPOWER,BSE Power Index - TRI,Stocks,GROWWPOWER
+GROWWRAIL,Nifty India Railways PSU Index,Index,NIFTY RAILWAYSPSU
+GROWWRLTY,Index,Index,NIFTY REALTY
+HDFCSML250,HDFC NIFTY Smallcap 250 ETF,Index,NIFTY SMLCAP 250
+INFRABEES,Nifty Infra,Index,NIFTY INFRA
+ITBEES,Nifty IT TRI,Index,NIFTY IT
+JUNIORBEES,Nippon India ETF Nifty Next 50 Junior BeES,Index,NIFTY NEXT 50
+LIQUIDCASE,Zerodha Nifty 1D Rate Liquid ETF,Stocks,LIQUIDCASE
+MAKEINDIA,Nifty India Manufacturing Total Return Index,Index,NIFTY INDIA MFG
+METALIETF,Nifty Metal Index,Index,NIFTY METAL
+MID150BEES,Nifty Midcap 150 TRI,Index,NIFTY MIDCAP 150
+MOCAPITAL,Nifty Capital Market Total Return Index,Index,NIFTY CAPITAL MKT
+MODEFENCE,Nifty India Defence Total Return Index,Index,NIFTY IND DEFENCE
+NIFTYBEES,Nifty 50,Index,NIFTY 50
+OILIETF,Nifty Oil & Gas Index,Index,NIFTY OIL AND GAS
+PHARMABEES,Nifty Pharma TRI,Index,NIFTY PHARMA
+PSUBNKBEES,Nifty PSU Bank,Index,NIFTY PSU BANK
+INDIGRID,INDIGRID,Stocks,INDIGRID
+SILVERBEES,Domestic price of Silver- based on LBMA Silver daily spot fixing price,Index,SILVERBEES
+PGINVIT,PGINVIT,Stocks,PGINVIT
+SGBGOLD,SGBGOLD,Stocks,SGBGOLD
