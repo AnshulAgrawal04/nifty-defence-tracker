@@ -633,3 +633,4 @@ triggered_at,status,duration_seconds,message
 2026-08-09 18:44:06,Success,0.28,
 2026-08-09 19:29:55,Success,0.4,
 2026-08-09 20:11:28,Success,1.26,
+2026-08-09 20:35:44,Failed,14.73,"HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=10)"
