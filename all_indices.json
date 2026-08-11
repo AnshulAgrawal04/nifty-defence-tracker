@@ -33,7 +33,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -68,7 +68,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-NEXT-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-NEXT-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-NEXT-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -103,7 +103,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-BANK.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-BANK.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-BANK.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -138,7 +138,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-FIN-SERVICE.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-FIN-SERVICE.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-FIN-SERVICE.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "INDICES ELIGIBLE IN DERIVATIVES",
@@ -173,564 +173,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MID-SELECT.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MID-SELECT.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MID-SELECT.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY 100",
-      "indexSymbol": "NIFTY 100",
-      "last": 25625.4,
-      "variation": -102.9,
-      "percentChange": -0.4,
-      "open": 25728.05,
-      "high": 25729.2,
-      "low": 25578.3,
-      "previousClose": 25728.3,
-      "yearHigh": 26975.15,
-      "yearLow": 22720.45,
-      "indicativeClose": 0,
-      "pe": "20.49",
-      "pb": "3.07",
-      "dy": "1.24",
-      "declines": "68",
-      "advances": "32",
-      "unchanged": "0",
-      "perChange365d": 1.8,
-      "perChange30d": 1.47,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 25255.1,
-      "oneWeekAgoVal": 25719.15,
-      "oneYearAgoVal": 24934.05,
-      "previousDayVal": 25625.4,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-100.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-100.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-100.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY 200",
-      "indexSymbol": "NIFTY 200",
-      "last": 14209.5,
-      "variation": -46.1,
-      "percentChange": -0.32,
-      "open": 14259,
-      "high": 14259.35,
-      "low": 14179.7,
-      "previousClose": 14255.6,
-      "yearHigh": 14700.95,
-      "yearLow": 12396.1,
-      "indicativeClose": 0,
-      "pe": "21.99",
-      "pb": "3.29",
-      "dy": "1.1",
-      "declines": "126",
-      "advances": "72",
-      "unchanged": "2",
-      "perChange365d": 3.85,
-      "perChange30d": 1.43,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 14009.25,
-      "oneWeekAgoVal": 14235.2,
-      "oneYearAgoVal": 13555.15,
-      "previousDayVal": 14209.5,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-200.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-200.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-200.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY 500",
-      "indexSymbol": "NIFTY 500",
-      "last": 23681.15,
-      "variation": -62.05,
-      "percentChange": -0.26,
-      "open": 23755.4,
-      "high": 23756.05,
-      "low": 23638.55,
-      "previousClose": 23743.2,
-      "yearHigh": 24144.2,
-      "yearLow": 20385.65,
-      "indicativeClose": 0,
-      "pe": "23.05",
-      "pb": "3.36",
-      "dy": "1.04",
-      "declines": "298",
-      "advances": "200",
-      "unchanged": "2",
-      "perChange365d": 4.63,
-      "perChange30d": 1.43,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 23348.4,
-      "oneWeekAgoVal": 23690.15,
-      "oneYearAgoVal": 22443.15,
-      "previousDayVal": 23681.15,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-500.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-500.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-500.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY MIDCAP 50",
-      "indexSymbol": "NIFTY MIDCAP 50",
-      "last": 18312.35,
-      "variation": 13.45,
-      "percentChange": 0.07,
-      "open": 18319.95,
-      "high": 18327.05,
-      "low": 18219.15,
-      "previousClose": 18298.9,
-      "yearHigh": 18336.75,
-      "yearLow": 14804.55,
-      "indicativeClose": 0,
-      "pe": "36",
-      "pb": "4.56",
-      "dy": "0.57",
-      "declines": "29",
-      "advances": "19",
-      "unchanged": "2",
-      "perChange365d": 15.01,
-      "perChange30d": 1.4,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 18059.5,
-      "oneWeekAgoVal": 18215.85,
-      "oneYearAgoVal": 15785.6,
-      "previousDayVal": 18312.35,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDCAP-50.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDCAP-50.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDCAP-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY MIDCAP 100",
-      "indexSymbol": "NIFTY MIDCAP 100",
-      "last": 63843.85,
-      "variation": -11.85,
-      "percentChange": -0.02,
-      "open": 63934.05,
-      "high": 63953.95,
-      "low": 63586.75,
-      "previousClose": 63855.7,
-      "yearHigh": 63986.7,
-      "yearLow": 52032.85,
-      "indicativeClose": 0,
-      "pe": "31",
-      "pb": "4.54",
-      "dy": "0.58",
-      "declines": "58",
-      "advances": "40",
-      "unchanged": "2",
-      "perChange365d": 13.04,
-      "perChange30d": 1.28,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 63036.8,
-      "oneWeekAgoVal": 63491.6,
-      "oneYearAgoVal": 56002.2,
-      "previousDayVal": 63843.85,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDCAP-100.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDCAP-100.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDCAP-100.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY SMALLCAP 100",
-      "indexSymbol": "NIFTY SMLCAP 100",
-      "last": 19857.15,
-      "variation": 43.2,
-      "percentChange": 0.22,
-      "open": 19860,
-      "high": 19909.6,
-      "low": 19834.4,
-      "previousClose": 19813.95,
-      "yearHigh": 19936.55,
-      "yearLow": 14986,
-      "indicativeClose": 0,
-      "pe": "32.13",
-      "pb": "3.58",
-      "dy": "0.58",
-      "declines": "56",
-      "advances": "44",
-      "unchanged": "0",
-      "perChange365d": 13.52,
-      "perChange30d": 2.27,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 19416.5,
-      "oneWeekAgoVal": 19635.25,
-      "oneYearAgoVal": 17428.2,
-      "previousDayVal": 19857.15,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SMLCAP-100.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SMLCAP-100.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SMLCAP-100.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "INDIA VIX",
-      "indexSymbol": "INDIA VIX",
-      "last": 11.79,
-      "variation": -0.46,
-      "percentChange": -3.73,
-      "open": 12.25,
-      "high": 12.46,
-      "low": 11.19,
-      "previousClose": 12.25,
-      "yearHigh": 28.91,
-      "yearLow": 8.72,
-      "indicativeClose": 0,
-      "pe": "0",
-      "pb": "0",
-      "dy": "0",
-      "perChange365d": -3.52,
-      "perChange30d": -3.76,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 12.25,
-      "oneWeekAgoVal": 12.19,
-      "oneYearAgoVal": 12.03,
-      "previousDayVal": 11.86,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/INDIA-VIX.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/INDIA-VIX.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/INDIA-VIX.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY MIDCAP 150",
-      "indexSymbol": "NIFTY MIDCAP 150",
-      "last": 23459.8,
-      "variation": -11.1,
-      "percentChange": -0.05,
-      "open": 23502.9,
-      "high": 23510.7,
-      "low": 23387.7,
-      "previousClose": 23470.9,
-      "yearHigh": 23514.15,
-      "yearLow": 19218,
-      "indicativeClose": 0,
-      "pe": "30.14",
-      "pb": "4.54",
-      "dy": "0.62",
-      "declines": "86",
-      "advances": "62",
-      "unchanged": "2",
-      "perChange365d": 11.8,
-      "perChange30d": 1.27,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 23166.5,
-      "oneWeekAgoVal": 23347.75,
-      "oneYearAgoVal": 20848.25,
-      "previousDayVal": 23459.8,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDCAP-150.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDCAP-150.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDCAP-150.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY SMALLCAP 50",
-      "indexSymbol": "NIFTY SMLCAP 50",
-      "last": 9942.8,
-      "variation": 17.5,
-      "percentChange": 0.18,
-      "open": 9958.3,
-      "high": 9981.45,
-      "low": 9930.75,
-      "previousClose": 9925.3,
-      "yearHigh": 9983.75,
-      "yearLow": 7338.35,
-      "indicativeClose": 0,
-      "pe": "32.49",
-      "pb": "3.48",
-      "dy": "0.6",
-      "declines": "30",
-      "advances": "20",
-      "unchanged": "0",
-      "perChange365d": 17.56,
-      "perChange30d": 3.34,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 9621.15,
-      "oneWeekAgoVal": 9751.8,
-      "oneYearAgoVal": 8416.2,
-      "previousDayVal": 9942.8,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SMLCAP-50.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SMLCAP-50.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SMLCAP-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY SMALLCAP 250",
-      "indexSymbol": "NIFTY SMLCAP 250",
-      "last": 18381.85,
-      "variation": 36.3,
-      "percentChange": 0.2,
-      "open": 18385.3,
-      "high": 18418.45,
-      "low": 18357.8,
-      "previousClose": 18345.55,
-      "yearHigh": 18426.05,
-      "yearLow": 14143.45,
-      "indicativeClose": 0,
-      "pe": "34.38",
-      "pb": "3.61",
-      "dy": "0.58",
-      "declines": "144",
-      "advances": "106",
-      "unchanged": "0",
-      "perChange365d": 10.62,
-      "perChange30d": 1.45,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 18118.9,
-      "oneWeekAgoVal": 18194.3,
-      "oneYearAgoVal": 16541.9,
-      "previousDayVal": 18381.85,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SMLCAP-250.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SMLCAP-250.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SMLCAP-250.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY MIDSMALLCAP 400",
-      "indexSymbol": "NIFTY MIDSML 400",
-      "last": 21615.05,
-      "variation": 7.95,
-      "percentChange": 0.04,
-      "open": 21642.5,
-      "high": 21648.8,
-      "low": 21564.35,
-      "previousClose": 21607.1,
-      "yearHigh": 21664.45,
-      "yearLow": 17390.85,
-      "indicativeClose": 0,
-      "pe": "31.47",
-      "pb": "4.18",
-      "dy": "0.6",
-      "declines": "230",
-      "advances": "168",
-      "unchanged": "2",
-      "perChange365d": 11.32,
-      "perChange30d": 1.33,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 21331.15,
-      "oneWeekAgoVal": 21471.6,
-      "oneYearAgoVal": 19305.75,
-      "previousDayVal": 21615.05,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDSML-400.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDSML-400.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDSML-400.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY500 MULTICAP 50:25:25",
-      "indexSymbol": "NIFTY500 MULTICAP",
-      "last": 16787.65,
-      "variation": -27.25,
-      "percentChange": -0.16,
-      "open": 16829.65,
-      "high": 16830.1,
-      "low": 16759.9,
-      "previousClose": 16814.9,
-      "yearHigh": 16847.15,
-      "yearLow": 14102.2,
-      "indicativeClose": 0,
-      "pe": "25.04",
-      "pb": "3.49",
-      "dy": "0.92",
-      "declines": "298",
-      "advances": "200",
-      "unchanged": "2",
-      "perChange365d": 6.58,
-      "perChange30d": 1.42,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 16553.25,
-      "oneWeekAgoVal": 16755.15,
-      "oneYearAgoVal": 15632.45,
-      "previousDayVal": 16787.65,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-MULTICAP.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-MULTICAP.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-MULTICAP.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY LARGEMIDCAP 250",
-      "indexSymbol": "NIFTY LARGEMID250",
-      "last": 16959.25,
-      "variation": -37.95,
-      "percentChange": -0.22,
-      "open": 17008.75,
-      "high": 17008.9,
-      "low": 16923.7,
-      "previousClose": 16997.2,
-      "yearHigh": 17077.75,
-      "yearLow": 14445.65,
-      "indicativeClose": 0,
-      "pe": "24.41",
-      "pb": "3.67",
-      "dy": "0.93",
-      "declines": "154",
-      "advances": "94",
-      "unchanged": "2",
-      "perChange365d": 6.75,
-      "perChange30d": 1.37,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 16730.55,
-      "oneWeekAgoVal": 16949.55,
-      "oneYearAgoVal": 15760.3,
-      "previousDayVal": 16959.25,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-LARGEMID250.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-LARGEMID250.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-LARGEMID250.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY TOTAL MARKET",
-      "indexSymbol": "NIFTY TOTAL MKT",
-      "last": 13367.8,
-      "variation": -34.5,
-      "percentChange": -0.26,
-      "open": 13409.4,
-      "high": 13409.7,
-      "low": 13345.2,
-      "previousClose": 13402.3,
-      "yearHigh": 13548,
-      "yearLow": 11436.55,
-      "indicativeClose": 0,
-      "pe": "23.23",
-      "pb": "3.36",
-      "dy": "1.01",
-      "declines": "451",
-      "advances": "295",
-      "unchanged": "6",
-      "perChange365d": 4.96,
-      "perChange30d": 1.45,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 13177,
-      "oneWeekAgoVal": 13364.2,
-      "oneYearAgoVal": 12632.35,
-      "previousDayVal": 13367.8,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-TOTAL-MKT.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-TOTAL-MKT.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-TOTAL-MKT.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY MICROCAP 250",
-      "indexSymbol": "NIFTY MICROCAP250",
-      "last": 25997.9,
-      "variation": -44.85,
-      "percentChange": -0.17,
-      "open": 26064.3,
-      "high": 26085.45,
-      "low": 25959.15,
-      "previousClose": 26042.75,
-      "yearHigh": 26188.85,
-      "yearLow": 18858.5,
-      "indicativeClose": 0,
-      "pe": "27.97",
-      "pb": "3.57",
-      "dy": "0.54",
-      "declines": "153",
-      "advances": "95",
-      "unchanged": "4",
-      "perChange365d": 12.45,
-      "perChange30d": 1.94,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 25503.05,
-      "oneWeekAgoVal": 25625.9,
-      "oneYearAgoVal": 23072.85,
-      "previousDayVal": 25997.9,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MICROCAP250.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MICROCAP250.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MICROCAP250.svg",
-      "captured_at": "2026-08-12 00:04:38"
-    },
-    {
-      "key": "BROAD MARKET INDICES",
-      "index": "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
-      "indexSymbol": "NIFTY500 LMS EQL",
-      "last": 18774,
-      "variation": -15.55,
-      "percentChange": -0.08,
-      "open": 18811.6,
-      "high": 18812.25,
-      "low": 18742.8,
-      "previousClose": 18789.55,
-      "yearHigh": 18831.8,
-      "yearLow": 15495.1,
-      "indicativeClose": 0,
-      "pe": "27.03",
-      "pb": "3.65",
-      "dy": "0.81",
-      "declines": "298",
-      "advances": "200",
-      "unchanged": "2",
-      "perChange365d": 8.17,
-      "perChange30d": 1.4,
-      "date365dAgo": "08-Aug-2025",
-      "date30dAgo": "10-Jul-2026",
-      "previousDay": "11-Aug-2026",
-      "oneWeekAgo": "04-Aug-2026",
-      "oneMonthAgoVal": 18515.15,
-      "oneWeekAgoVal": 18702.75,
-      "oneYearAgoVal": 17238.05,
-      "previousDayVal": 18774,
-      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-LMS-EQL.svg",
-      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-LMS-EQL.svg",
-      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-LMS-EQL.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -765,7 +208,564 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-FPI-150.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-FPI-150.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY 100",
+      "indexSymbol": "NIFTY 100",
+      "last": 25625.4,
+      "variation": -102.9,
+      "percentChange": -0.4,
+      "open": 25728.05,
+      "high": 25729.2,
+      "low": 25578.3,
+      "previousClose": 25728.3,
+      "yearHigh": 26975.15,
+      "yearLow": 22720.45,
+      "indicativeClose": 0,
+      "pe": "20.49",
+      "pb": "3.07",
+      "dy": "1.24",
+      "declines": "68",
+      "advances": "32",
+      "unchanged": "0",
+      "perChange365d": 1.8,
+      "perChange30d": 1.47,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 25255.1,
+      "oneWeekAgoVal": 25719.15,
+      "oneYearAgoVal": 24934.05,
+      "previousDayVal": 25625.4,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-100.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-100.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-100.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY 200",
+      "indexSymbol": "NIFTY 200",
+      "last": 14209.5,
+      "variation": -46.1,
+      "percentChange": -0.32,
+      "open": 14259,
+      "high": 14259.35,
+      "low": 14179.7,
+      "previousClose": 14255.6,
+      "yearHigh": 14700.95,
+      "yearLow": 12396.1,
+      "indicativeClose": 0,
+      "pe": "21.99",
+      "pb": "3.29",
+      "dy": "1.1",
+      "declines": "126",
+      "advances": "72",
+      "unchanged": "2",
+      "perChange365d": 3.85,
+      "perChange30d": 1.43,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 14009.25,
+      "oneWeekAgoVal": 14235.2,
+      "oneYearAgoVal": 13555.15,
+      "previousDayVal": 14209.5,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-200.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-200.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-200.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY 500",
+      "indexSymbol": "NIFTY 500",
+      "last": 23681.15,
+      "variation": -62.05,
+      "percentChange": -0.26,
+      "open": 23755.4,
+      "high": 23756.05,
+      "low": 23638.55,
+      "previousClose": 23743.2,
+      "yearHigh": 24144.2,
+      "yearLow": 20385.65,
+      "indicativeClose": 0,
+      "pe": "23.05",
+      "pb": "3.36",
+      "dy": "1.04",
+      "declines": "298",
+      "advances": "200",
+      "unchanged": "2",
+      "perChange365d": 4.63,
+      "perChange30d": 1.43,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 23348.4,
+      "oneWeekAgoVal": 23690.15,
+      "oneYearAgoVal": 22443.15,
+      "previousDayVal": 23681.15,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-500.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-500.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-500.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY MIDCAP 50",
+      "indexSymbol": "NIFTY MIDCAP 50",
+      "last": 18312.35,
+      "variation": 13.45,
+      "percentChange": 0.07,
+      "open": 18319.95,
+      "high": 18327.05,
+      "low": 18219.15,
+      "previousClose": 18298.9,
+      "yearHigh": 18336.75,
+      "yearLow": 14804.55,
+      "indicativeClose": 0,
+      "pe": "36",
+      "pb": "4.56",
+      "dy": "0.57",
+      "declines": "29",
+      "advances": "19",
+      "unchanged": "2",
+      "perChange365d": 15.01,
+      "perChange30d": 1.4,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 18059.5,
+      "oneWeekAgoVal": 18215.85,
+      "oneYearAgoVal": 15785.6,
+      "previousDayVal": 18312.35,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDCAP-50.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDCAP-50.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDCAP-50.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY MIDCAP 100",
+      "indexSymbol": "NIFTY MIDCAP 100",
+      "last": 63843.85,
+      "variation": -11.85,
+      "percentChange": -0.02,
+      "open": 63934.05,
+      "high": 63953.95,
+      "low": 63586.75,
+      "previousClose": 63855.7,
+      "yearHigh": 63986.7,
+      "yearLow": 52032.85,
+      "indicativeClose": 0,
+      "pe": "31",
+      "pb": "4.54",
+      "dy": "0.58",
+      "declines": "58",
+      "advances": "40",
+      "unchanged": "2",
+      "perChange365d": 13.04,
+      "perChange30d": 1.28,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 63036.8,
+      "oneWeekAgoVal": 63491.6,
+      "oneYearAgoVal": 56002.2,
+      "previousDayVal": 63843.85,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDCAP-100.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDCAP-100.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDCAP-100.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY SMALLCAP 100",
+      "indexSymbol": "NIFTY SMLCAP 100",
+      "last": 19857.15,
+      "variation": 43.2,
+      "percentChange": 0.22,
+      "open": 19860,
+      "high": 19909.6,
+      "low": 19834.4,
+      "previousClose": 19813.95,
+      "yearHigh": 19936.55,
+      "yearLow": 14986,
+      "indicativeClose": 0,
+      "pe": "32.13",
+      "pb": "3.58",
+      "dy": "0.58",
+      "declines": "56",
+      "advances": "44",
+      "unchanged": "0",
+      "perChange365d": 13.52,
+      "perChange30d": 2.27,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 19416.5,
+      "oneWeekAgoVal": 19635.25,
+      "oneYearAgoVal": 17428.2,
+      "previousDayVal": 19857.15,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SMLCAP-100.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SMLCAP-100.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SMLCAP-100.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "INDIA VIX",
+      "indexSymbol": "INDIA VIX",
+      "last": 11.79,
+      "variation": -0.46,
+      "percentChange": -3.73,
+      "open": 12.25,
+      "high": 12.46,
+      "low": 11.19,
+      "previousClose": 12.25,
+      "yearHigh": 28.91,
+      "yearLow": 8.72,
+      "indicativeClose": 0,
+      "pe": "0",
+      "pb": "0",
+      "dy": "0",
+      "perChange365d": -3.52,
+      "perChange30d": -3.76,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 12.25,
+      "oneWeekAgoVal": 12.19,
+      "oneYearAgoVal": 12.03,
+      "previousDayVal": 11.86,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/INDIA-VIX.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/INDIA-VIX.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/INDIA-VIX.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY MIDCAP 150",
+      "indexSymbol": "NIFTY MIDCAP 150",
+      "last": 23459.8,
+      "variation": -11.1,
+      "percentChange": -0.05,
+      "open": 23502.9,
+      "high": 23510.7,
+      "low": 23387.7,
+      "previousClose": 23470.9,
+      "yearHigh": 23514.15,
+      "yearLow": 19218,
+      "indicativeClose": 0,
+      "pe": "30.14",
+      "pb": "4.54",
+      "dy": "0.62",
+      "declines": "86",
+      "advances": "62",
+      "unchanged": "2",
+      "perChange365d": 11.8,
+      "perChange30d": 1.27,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 23166.5,
+      "oneWeekAgoVal": 23347.75,
+      "oneYearAgoVal": 20848.25,
+      "previousDayVal": 23459.8,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDCAP-150.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDCAP-150.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDCAP-150.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY SMALLCAP 50",
+      "indexSymbol": "NIFTY SMLCAP 50",
+      "last": 9942.8,
+      "variation": 17.5,
+      "percentChange": 0.18,
+      "open": 9958.3,
+      "high": 9981.45,
+      "low": 9930.75,
+      "previousClose": 9925.3,
+      "yearHigh": 9983.75,
+      "yearLow": 7338.35,
+      "indicativeClose": 0,
+      "pe": "32.49",
+      "pb": "3.48",
+      "dy": "0.6",
+      "declines": "30",
+      "advances": "20",
+      "unchanged": "0",
+      "perChange365d": 17.56,
+      "perChange30d": 3.34,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 9621.15,
+      "oneWeekAgoVal": 9751.8,
+      "oneYearAgoVal": 8416.2,
+      "previousDayVal": 9942.8,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SMLCAP-50.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SMLCAP-50.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SMLCAP-50.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY SMALLCAP 250",
+      "indexSymbol": "NIFTY SMLCAP 250",
+      "last": 18381.85,
+      "variation": 36.3,
+      "percentChange": 0.2,
+      "open": 18385.3,
+      "high": 18418.45,
+      "low": 18357.8,
+      "previousClose": 18345.55,
+      "yearHigh": 18426.05,
+      "yearLow": 14143.45,
+      "indicativeClose": 0,
+      "pe": "34.38",
+      "pb": "3.61",
+      "dy": "0.58",
+      "declines": "144",
+      "advances": "106",
+      "unchanged": "0",
+      "perChange365d": 10.62,
+      "perChange30d": 1.45,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 18118.9,
+      "oneWeekAgoVal": 18194.3,
+      "oneYearAgoVal": 16541.9,
+      "previousDayVal": 18381.85,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SMLCAP-250.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SMLCAP-250.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SMLCAP-250.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY MIDSMALLCAP 400",
+      "indexSymbol": "NIFTY MIDSML 400",
+      "last": 21615.05,
+      "variation": 7.95,
+      "percentChange": 0.04,
+      "open": 21642.5,
+      "high": 21648.8,
+      "low": 21564.35,
+      "previousClose": 21607.1,
+      "yearHigh": 21664.45,
+      "yearLow": 17390.85,
+      "indicativeClose": 0,
+      "pe": "31.47",
+      "pb": "4.18",
+      "dy": "0.6",
+      "declines": "230",
+      "advances": "168",
+      "unchanged": "2",
+      "perChange365d": 11.32,
+      "perChange30d": 1.33,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 21331.15,
+      "oneWeekAgoVal": 21471.6,
+      "oneYearAgoVal": 19305.75,
+      "previousDayVal": 21615.05,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDSML-400.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDSML-400.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDSML-400.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY500 MULTICAP 50:25:25",
+      "indexSymbol": "NIFTY500 MULTICAP",
+      "last": 16787.65,
+      "variation": -27.25,
+      "percentChange": -0.16,
+      "open": 16829.65,
+      "high": 16830.1,
+      "low": 16759.9,
+      "previousClose": 16814.9,
+      "yearHigh": 16847.15,
+      "yearLow": 14102.2,
+      "indicativeClose": 0,
+      "pe": "25.04",
+      "pb": "3.49",
+      "dy": "0.92",
+      "declines": "298",
+      "advances": "200",
+      "unchanged": "2",
+      "perChange365d": 6.58,
+      "perChange30d": 1.42,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 16553.25,
+      "oneWeekAgoVal": 16755.15,
+      "oneYearAgoVal": 15632.45,
+      "previousDayVal": 16787.65,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-MULTICAP.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-MULTICAP.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-MULTICAP.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY LARGEMIDCAP 250",
+      "indexSymbol": "NIFTY LARGEMID250",
+      "last": 16959.25,
+      "variation": -37.95,
+      "percentChange": -0.22,
+      "open": 17008.75,
+      "high": 17008.9,
+      "low": 16923.7,
+      "previousClose": 16997.2,
+      "yearHigh": 17077.75,
+      "yearLow": 14445.65,
+      "indicativeClose": 0,
+      "pe": "24.41",
+      "pb": "3.67",
+      "dy": "0.93",
+      "declines": "154",
+      "advances": "94",
+      "unchanged": "2",
+      "perChange365d": 6.75,
+      "perChange30d": 1.37,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 16730.55,
+      "oneWeekAgoVal": 16949.55,
+      "oneYearAgoVal": 15760.3,
+      "previousDayVal": 16959.25,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-LARGEMID250.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-LARGEMID250.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-LARGEMID250.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY TOTAL MARKET",
+      "indexSymbol": "NIFTY TOTAL MKT",
+      "last": 13367.8,
+      "variation": -34.5,
+      "percentChange": -0.26,
+      "open": 13409.4,
+      "high": 13409.7,
+      "low": 13345.2,
+      "previousClose": 13402.3,
+      "yearHigh": 13548,
+      "yearLow": 11436.55,
+      "indicativeClose": 0,
+      "pe": "23.23",
+      "pb": "3.36",
+      "dy": "1.01",
+      "declines": "451",
+      "advances": "295",
+      "unchanged": "6",
+      "perChange365d": 4.96,
+      "perChange30d": 1.45,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 13177,
+      "oneWeekAgoVal": 13364.2,
+      "oneYearAgoVal": 12632.35,
+      "previousDayVal": 13367.8,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-TOTAL-MKT.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-TOTAL-MKT.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-TOTAL-MKT.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY MICROCAP 250",
+      "indexSymbol": "NIFTY MICROCAP250",
+      "last": 25997.9,
+      "variation": -44.85,
+      "percentChange": -0.17,
+      "open": 26064.3,
+      "high": 26085.45,
+      "low": 25959.15,
+      "previousClose": 26042.75,
+      "yearHigh": 26188.85,
+      "yearLow": 18858.5,
+      "indicativeClose": 0,
+      "pe": "27.97",
+      "pb": "3.57",
+      "dy": "0.54",
+      "declines": "153",
+      "advances": "95",
+      "unchanged": "4",
+      "perChange365d": 12.45,
+      "perChange30d": 1.94,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 25503.05,
+      "oneWeekAgoVal": 25625.9,
+      "oneYearAgoVal": 23072.85,
+      "previousDayVal": 25997.9,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MICROCAP250.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MICROCAP250.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MICROCAP250.svg",
+      "captured_at": "2026-08-12 01:14:36"
+    },
+    {
+      "key": "BROAD MARKET INDICES",
+      "index": "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "indexSymbol": "NIFTY500 LMS EQL",
+      "last": 18774,
+      "variation": -15.55,
+      "percentChange": -0.08,
+      "open": 18811.6,
+      "high": 18812.25,
+      "low": 18742.8,
+      "previousClose": 18789.55,
+      "yearHigh": 18831.8,
+      "yearLow": 15495.1,
+      "indicativeClose": 0,
+      "pe": "27.03",
+      "pb": "3.65",
+      "dy": "0.81",
+      "declines": "298",
+      "advances": "200",
+      "unchanged": "2",
+      "perChange365d": 8.17,
+      "perChange30d": 1.4,
+      "date365dAgo": "08-Aug-2025",
+      "date30dAgo": "10-Jul-2026",
+      "previousDay": "11-Aug-2026",
+      "oneWeekAgo": "04-Aug-2026",
+      "oneMonthAgoVal": 18515.15,
+      "oneWeekAgoVal": 18702.75,
+      "oneYearAgoVal": 17238.05,
+      "previousDayVal": 18774,
+      "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-LMS-EQL.svg",
+      "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-LMS-EQL.svg",
+      "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-LMS-EQL.svg",
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -800,7 +800,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SMALLCAP-500.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SMALLCAP-500.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "BROAD MARKET INDICES",
@@ -835,7 +835,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDSMALL-50-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDSMALL-50-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -870,7 +870,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-AUTO.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-AUTO.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-AUTO.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -905,7 +905,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-FINSRV25-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-FINSRV25-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-FINSRV25-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -940,7 +940,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-FMCG.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-FMCG.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-FMCG.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -975,7 +975,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-IT.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-IT.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-IT.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1010,7 +1010,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MEDIA.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MEDIA.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MEDIA.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1045,7 +1045,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-METAL.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-METAL.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-METAL.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1080,7 +1080,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-PHARMA.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-PHARMA.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-PHARMA.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1115,7 +1115,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-PSU-BANK.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-PSU-BANK.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-PSU-BANK.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1150,7 +1150,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-PVT-BANK.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-PVT-BANK.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-PVT-BANK.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1185,7 +1185,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-REALTY.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-REALTY.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-REALTY.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1220,7 +1220,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-HEALTHCARE.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-HEALTHCARE.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-HEALTHCARE.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1255,7 +1255,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-CONSR-DURBL.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-CONSR-DURBL.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-CONSR-DURBL.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1290,7 +1290,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-OIL-AND-GAS.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-OIL-AND-GAS.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-OIL-AND-GAS.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1325,7 +1325,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MIDSML-HLTH.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MIDSML-HLTH.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MIDSML-HLTH.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1360,7 +1360,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-FINSEREXBNK.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-FINSEREXBNK.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-FINSEREXBNK.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1395,7 +1395,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MS-FIN-SERV.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MS-FIN-SERV.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MS-FIN-SERV.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1430,7 +1430,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MS-IT-TELCM.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MS-IT-TELCM.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MS-IT-TELCM.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1465,7 +1465,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-CHEMICALS.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-CHEMICALS.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-CHEMICALS.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1500,7 +1500,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-HEALTH.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-HEALTH.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1535,7 +1535,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-REITS-REALTY.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-REITS-REALTY.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "SECTORAL INDICES",
@@ -1570,7 +1570,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-CEMENT.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-CEMENT.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1605,7 +1605,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-DIV-OPPS-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-DIV-OPPS-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-DIV-OPPS-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1640,7 +1640,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-GROWSECT-15.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-GROWSECT-15.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-GROWSECT-15.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1675,7 +1675,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY100-QUALTY30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY100-QUALTY30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY100-QUALTY30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1710,7 +1710,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY50-VALUE-20.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-VALUE-20.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-VALUE-20.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1742,7 +1742,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY50-TR-2X-LEV.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-TR-2X-LEV.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-TR-2X-LEV.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1774,7 +1774,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY50-PR-2X-LEV.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-PR-2X-LEV.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-PR-2X-LEV.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1806,7 +1806,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY50-TR-1X-INV.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-TR-1X-INV.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-TR-1X-INV.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1838,7 +1838,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY50-PR-1X-INV.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-PR-1X-INV.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-PR-1X-INV.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1870,7 +1870,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY50-DIV-POINT.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-DIV-POINT.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-DIV-POINT.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1905,7 +1905,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-ALPHA-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-ALPHA-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-ALPHA-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1940,7 +1940,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY50-EQL-WGT.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-EQL-WGT.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-EQL-WGT.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -1975,7 +1975,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY100-EQL-WGT.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY100-EQL-WGT.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY100-EQL-WGT.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2010,7 +2010,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY100-LOWVOL30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY100-LOWVOL30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY100-LOWVOL30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2045,7 +2045,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY200-QUALTY30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY200-QUALTY30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY200-QUALTY30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2080,7 +2080,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-ALPHALOWVOL.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-ALPHALOWVOL.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-ALPHALOWVOL.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2115,7 +2115,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY200MOMENTM30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY200MOMENTM30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY200MOMENTM30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2150,7 +2150,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-M150-QLTY50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-M150-QLTY50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-M150-QLTY50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2185,7 +2185,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY200-ALPHA-30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY200-ALPHA-30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY200-ALPHA-30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2220,7 +2220,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTYM150MOMNTM50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTYM150MOMNTM50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTYM150MOMNTM50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2255,7 +2255,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500MOMENTM50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500MOMENTM50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500MOMENTM50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2290,7 +2290,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTYMS400-MQ-100.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTYMS400-MQ-100.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTYMS400-MQ-100.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2325,7 +2325,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTYSML250MQ-100.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTYSML250MQ-100.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTYSML250MQ-100.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2360,7 +2360,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-TOP-10-EW.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-TOP-10-EW.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-TOP-10-EW.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2395,7 +2395,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-AQL-30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-AQL-30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-AQL-30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2430,7 +2430,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-AQLV-30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-AQLV-30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-AQLV-30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2465,7 +2465,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-HIGHBETA-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-HIGHBETA-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-HIGHBETA-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2500,7 +2500,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-LOW-VOL-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-LOW-VOL-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-LOW-VOL-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2535,7 +2535,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-QLTY-LV-30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-QLTY-LV-30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-QLTY-LV-30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2570,7 +2570,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SML250-Q50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SML250-Q50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SML250-Q50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2605,7 +2605,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-TOP-15-EW.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-TOP-15-EW.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-TOP-15-EW.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2640,7 +2640,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY100-ALPHA-30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY100-ALPHA-30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY100-ALPHA-30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2675,7 +2675,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY200-VALUE-30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY200-VALUE-30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY200-VALUE-30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2710,7 +2710,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-EW.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-EW.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-EW.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2745,7 +2745,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MULTI-MQ-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MULTI-MQ-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MULTI-MQ-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2780,7 +2780,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-VALUE-50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-VALUE-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-VALUE-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2815,7 +2815,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-TOP-20-EW.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-TOP-20-EW.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-TOP-20-EW.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2850,7 +2850,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-QLTY50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-QLTY50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-QLTY50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2885,7 +2885,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-LOWVOL50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-LOWVOL50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-LOWVOL50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2920,7 +2920,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-MQVLV50.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-MQVLV50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-MQVLV50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2952,7 +2952,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-USD.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-USD.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -2987,7 +2987,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-FLEXICAP.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-FLEXICAP.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "STRATEGY INDICES",
@@ -3022,7 +3022,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-TMMQ-50.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-TMMQ-50.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3057,7 +3057,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-COMMODITIES.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-COMMODITIES.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-COMMODITIES.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3092,7 +3092,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-CONSUMPTION.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-CONSUMPTION.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-CONSUMPTION.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3127,7 +3127,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-CPSE.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-CPSE.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-CPSE.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3162,7 +3162,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-ENERGY.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-ENERGY.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-ENERGY.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3197,7 +3197,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-INFRA.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-INFRA.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-INFRA.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3232,7 +3232,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY100-LIQ-15.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY100-LIQ-15.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY100-LIQ-15.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3267,7 +3267,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MID-LIQ-15.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MID-LIQ-15.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MID-LIQ-15.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3302,7 +3302,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MNC.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MNC.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MNC.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3337,7 +3337,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-PSE.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-PSE.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-PSE.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3372,7 +3372,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SERV-SECTOR.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SERV-SECTOR.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SERV-SECTOR.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3407,7 +3407,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY100ESGSECLDR.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY100ESGSECLDR.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY100ESGSECLDR.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3442,7 +3442,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-IND-DIGITAL.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-IND-DIGITAL.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-IND-DIGITAL.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3477,7 +3477,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY100-ESG.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY100-ESG.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY100-ESG.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3512,7 +3512,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-INDIA-MFG.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-INDIA-MFG.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-INDIA-MFG.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3547,7 +3547,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-TATA-25-CAP.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-TATA-25-CAP.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-TATA-25-CAP.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3582,7 +3582,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MULTI-MFG.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MULTI-MFG.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MULTI-MFG.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3617,7 +3617,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MULTI-INFRA.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MULTI-INFRA.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MULTI-INFRA.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3652,7 +3652,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-IND-DEFENCE.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-IND-DEFENCE.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-IND-DEFENCE.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3687,7 +3687,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-IND-TOURISM.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-IND-TOURISM.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-IND-TOURISM.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3722,7 +3722,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-CAPITAL-MKT.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-CAPITAL-MKT.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-CAPITAL-MKT.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3757,7 +3757,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-EV.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-EV.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-EV.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3792,7 +3792,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-NEW-CONSUMP.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-NEW-CONSUMP.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-NEW-CONSUMP.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3827,7 +3827,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-CORP-MAATR.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-CORP-MAATR.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-CORP-MAATR.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3862,7 +3862,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MOBILITY.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MOBILITY.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MOBILITY.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3897,7 +3897,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY100-ENH-ESG.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY100-ENH-ESG.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY100-ENH-ESG.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3932,7 +3932,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-COREHOUSING.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-COREHOUSING.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-COREHOUSING.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -3967,7 +3967,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-HOUSING.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-HOUSING.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-HOUSING.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4002,7 +4002,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-IPO.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-IPO.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-IPO.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4037,7 +4037,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-MS-IND-CONS.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-MS-IND-CONS.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-MS-IND-CONS.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4072,7 +4072,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-NONCYC-CONS.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-NONCYC-CONS.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-NONCYC-CONS.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4107,7 +4107,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-RURAL.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-RURAL.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-RURAL.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4142,7 +4142,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SHARIAH-25.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SHARIAH-25.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SHARIAH-25.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4177,7 +4177,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-TRANS-LOGIS.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-TRANS-LOGIS.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-TRANS-LOGIS.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4212,7 +4212,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY50-SHARIAH.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY50-SHARIAH.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY50-SHARIAH.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4247,7 +4247,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY500-SHARIAH.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY500-SHARIAH.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY500-SHARIAH.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4279,7 +4279,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-SME-EMERGE.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-SME-EMERGE.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-SME-EMERGE.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4314,7 +4314,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-INTERNET.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-INTERNET.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4349,7 +4349,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-WAVES.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-WAVES.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-WAVES.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4384,7 +4384,7 @@
       "chart365dPath": null,
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-INFRALOG.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-INFRALOG.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4419,7 +4419,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-RAILWAYSPSU.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-RAILWAYSPSU.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-RAILWAYSPSU.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "THEMATIC INDICES",
@@ -4454,7 +4454,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTYCONGLOMERATE.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTYCONGLOMERATE.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTYCONGLOMERATE.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4486,7 +4486,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-GS-8-13YR.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-GS-8-13YR.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-GS-8-13YR.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4518,7 +4518,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-GS-10YR.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-GS-10YR.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-GS-10YR.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4550,7 +4550,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-GS-10YR-CLN.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-GS-10YR-CLN.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-GS-10YR-CLN.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4582,7 +4582,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-GS-4-8YR.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-GS-4-8YR.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-GS-4-8YR.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4614,7 +4614,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-GS-11-15YR.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-GS-11-15YR.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-GS-11-15YR.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4646,7 +4646,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-GS-15YRPLUS.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-GS-15YRPLUS.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-GS-15YRPLUS.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4678,7 +4678,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/NIFTY-GS-COMPSITE.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/NIFTY-GS-COMPSITE.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/NIFTY-GS-COMPSITE.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4710,7 +4710,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/BHARATBOND-APR30.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/BHARATBOND-APR30.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/BHARATBOND-APR30.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4742,7 +4742,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/BHARATBOND-APR31.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/BHARATBOND-APR31.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/BHARATBOND-APR31.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4774,7 +4774,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/BHARATBOND-APR32.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/BHARATBOND-APR32.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/BHARATBOND-APR32.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     },
     {
       "key": "FIXED INCOME INDICES",
@@ -4806,7 +4806,7 @@
       "chart365dPath": "https://nsearchives.nseindia.com/365d/BHARATBOND-APR33.svg",
       "chart30dPath": "https://nsearchives.nseindia.com/30d/BHARATBOND-APR33.svg",
       "chartTodayPath": "https://nsearchives.nseindia.com/today/BHARATBOND-APR33.svg",
-      "captured_at": "2026-08-12 00:04:38"
+      "captured_at": "2026-08-12 01:14:36"
     }
   ],
   "timestamp": "11-Aug-2026 15:30",
